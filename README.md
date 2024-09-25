@@ -18,7 +18,9 @@ The following **optional** features are implemented:
 - [ ] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
+## Demo
 
+![Demo](https://coding-community-bo895tue1-natashas-projects-0cb00135.vercel.app)
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
