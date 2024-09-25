@@ -2,9 +2,9 @@
 
 Submitted by: **Natasha Piedrabuena**
 
-This web app: **insert description**
+This web app: **Community (Coding) based Web App**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -18,15 +18,12 @@ The following **optional** features are implemented:
 - [ ] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s3.ezgif.com/tmp/ezgif-3-7923906380.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
