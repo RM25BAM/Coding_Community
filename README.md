@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Coding Community NYC*
 
 Submitted by: **Natasha Piedrabuena**
 
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had issues with getting the design similar to the one provided and manipulating onClick. 
 
 ## License
 
