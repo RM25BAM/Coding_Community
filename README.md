@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 ## Demo
 
-![Demo](https://coding-community-bo895tue1-natashas-projects-0cb00135.vercel.app)
+![url]('https://coding-community-bo895tue1-natashas-projects-0cb00135.vercel.app')
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
