@@ -20,12 +20,12 @@ The following **optional** features are implemented:
 
 ## Demo
 
-![url]('https://coding-community-bo895tue1-natashas-projects-0cb00135.vercel.app')
+[Click Here](https://coding-community-bo895tue1-natashas-projects-0cb00135.vercel.app)
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://s3.ezgif.com/tmp/ezgif-3-7923906380.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='project_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
